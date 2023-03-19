@@ -1,10 +1,3 @@
-
-
-
-
-## Demo Website
-👉 Live Demo :https://piza-delivery-shop.herokuapp.com/
-
 ## Run Locally 🚀
 
 - git clone git@github.com/AbdulWahab0/Pizza-Shop.git
