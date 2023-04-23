@@ -1,3 +1,9 @@
+
+![Screenshot (47)](https://user-images.githubusercontent.com/99719238/233854631-237cabd0-414f-47b5-98bb-e6aa23ea5611.png)
+
+
+
+
 ## Run Locally 🚀
 - cd Piz-Shop
 - Run Backend
@@ -10,4 +16,4 @@
   - npm start
 
 
-![Screenshot (47)](https://user-images.githubusercontent.com/99719238/233854631-237cabd0-414f-47b5-98bb-e6aa23ea5611.png)
+
